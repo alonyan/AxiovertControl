@@ -2,7 +2,7 @@
 /****************************************************************************************************************************************************************************************
 *
 * ZEISS AXIOVERT 200 MICROSCOPE STAGE CONTROLLER ARDUINO PROGRAMfind
-* WRITTEN DURING 2102 BY GADI AFEK @ OLEG KRICHEVSKY'S LAB IN BGU PHYSICS DEPT.
+* WRITTEN DURING 2102 BY GADI AFEK & ALON OYLER YANIV @ OLEG KRICHEVSKY'S LAB IN BGU PHYSICS DEPT.
 * SEE ATTACHED TXT FILE FOR ADDITIONAL PINNOUT INFORMATION
 *
 *  This program uses the following hardware:
